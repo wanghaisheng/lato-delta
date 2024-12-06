@@ -1,4 +1,4 @@
-# Lato delta
+# fullstack-cf-Lato delta
 
 Full stack app with React for frontend and Hono for backend deployed to Cloudflare pages with functions.
 
